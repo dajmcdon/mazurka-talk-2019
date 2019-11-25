@@ -3,7 +3,7 @@
 .Rapp.history
 
 *.Rproj
-*_cache/
+*chopin-talk-2019_cache/
 
 # Session Data files
 .RData
@@ -18,7 +18,7 @@
 /*.Rcheck/
 
 # RStudio files
-.Rproj.user/
+*.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
