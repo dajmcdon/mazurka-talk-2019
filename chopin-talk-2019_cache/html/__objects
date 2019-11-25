@@ -1,0 +1,25 @@
+rubinstein-tempo	
+score-bit	
+charm	
+all-performance-lines	
+all-perfs	beam	bestpath	i	kal	lt	params	perfcols	plots	pmats	y
+example-perf	perfshapes	plots
+markov-trans	
+ss-mod	
+ss-mod-again	
+s-tree	tedges	tnodes	vn	.chopin-talk-2019_cache/html/s-tree_7d775944f68d568035ffe1dd3ee07626_meta
+small-tree	tedges	tnodes	vn2	.chopin-talk-2019_cache/html/small-tree_4b24c6b025dba15ccc2dafba20c92801_meta
+two-perfs	plots
+estimated-parm	lab_lookup	ttt
+clustering-processing	dend_parm	dend_perf	hc_parm	hc_perf	perfs	pvec_ml
+parametric-clusters	colorthem	nclusts	othercut	sDmat	subs
+other-removed	clustered	pvec_all	sdends
+clustered-parameters	ttt
+clustered-p14	p14
+clust-1	lookup	plots
+clust-2	
+similar-perfs	similar
+rubinstein-perfs	similar
+cortot-performance	
+alternative-smoothers	all.knots	B	B1	double.knots	nsplines	quad.knots	single.knots	spline_music	triple.knots
+bad-model	

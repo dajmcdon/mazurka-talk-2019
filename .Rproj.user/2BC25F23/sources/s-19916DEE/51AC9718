@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574457207618.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3451489690",
+    "id" : "51AC9718",
+    "lastKnownWriteTime" : 1574720067,
+    "last_content_update" : 1574720067951,
+    "path" : "~/Documents/Work/Talks and presentations/Chopin2019public/chopin-talk-2019.Rmd",
+    "project_path" : "chopin-talk-2019.Rmd",
+    "properties" : {
+        "cursorPosition" : "224,23",
+        "scrollLine" : "214",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

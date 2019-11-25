@@ -1,0 +1,25 @@
+rubinstein-tempo	aes	c	coord_cartesian	db	geom_hline	geom_line	ggplot	note_onset	red	Rubinstein_1961	scale_x_continuous	tempos	th	xlab	ylab
+score-bit	include_graphics
+charm	include_graphics
+all-performance-lines	%>%	aes	beat	data.frame	fivecolors	geom_line	geom_rect	ggplot	meas_num	name	note_onset	nrow	pivot_longer	pvec_ml	rep	scale_color_manual	select	tempos	th	theme	value	xlab	xmax	xmin	ylab	ymax	ymin
+all-perfs	[[<-	%>%	$	$<-	as.factor	beamSearch	bind_rows	c	convert10to4	data.frame	diff	factor	for	gsub	kalman	length	matrix	musicModel	mutate	nlevels	nrow	pvec_ml	rep	row.names	state	tempos	unlist	vector	viridis_pal	which.max
+example-perf	%>%	==	~	aes	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	mutate	perfcols	performer	scale_color_manual	scale_shape_manual	state	sub	tempo	th	xmax	xmin	ymax	ymin
+markov-trans	include_graphics
+ss-mod	include_graphics
+ss-mod-again	include_graphics
+s-tree	%>%	blue	c	frameWidget	green	library	list	orange	red	rep	tibble	visEdges	visGroups	visHierarchicalLayout	visNetwork	visOptions
+small-tree	%>%	c	frameWidget	green	list	red	rep	tibble	visEdges	visGroups	visHierarchicalLayout	visNetwork	visOptions
+two-perfs	%>%	~	aes	c	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	mutate	perfcols	performer	scale_color_manual	scale_shape_manual	state	sub	tempo	th	xmax	xmin	ymax	ymin
+estimated-parm	::	%>%	~	$	$<-	aes	c	facet_wrap	factor	gather	geom_density	ggplot	green	label_parsed	pvec_ml	scale_x_continuous	th	unique	value	xlab
+clustering-processing	%>%	as.dendrogram	as.dist	as.matrix	c	dist	Dmats	hclust	percentize	Reduce	row.names	row.names<-	sub	t	tempos
+parametric-clusters	<	apply	c	dend_parm	hc_parm	heatmap.2	quantile	viridis
+other-removed	[<-	%>%	$	$<-	as.dendrogram	as.dist	as.factor	as.hclust	c	colorthem	cutree	data.frame	data.matrix	fivecolors	full_join	hclust	heatmap.2	if	is.na	levels	levels<-	nclusts	pvec_ml	row.names	row.names<-	sDmat	set	viridis
+clustered-parameters	::	%>%	~	$	$<-	aes	clust	facet_wrap	factor	fivecolors	gather	geom_density	ggplot	lab_lookup	label_parsed	performer	pvec_all	scale_fill_manual	scale_x_continuous	th	theme	unique	value	xlab
+clustered-p14	::	%>%	aes	clust	fivecolors	geom_density	ggplot	mutate	p11	p12	p13	performer	pvec_all	scale_fill_manual	scale_x_continuous	select	th	theme	xlab
+clust-1	%>%	==	~	aes	clust	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	ggtitle	inferred	left_join	measure	perfcols	performer	perfshapes	pvec_all	scale_color_manual	scale_shape_manual	select	state	tempo	th	theme	xmax	xmin	ymax	ymin
+clust-2	==	~	aes	clust	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	ggtitle	inferred	measure	perfcols	perfshapes	plots	scale_color_manual	scale_shape_manual	state	tempo	th	theme	xmax	xmin	ymax	ymin
+similar-perfs	%>%	~	aes	c	clust	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	mutate	paste0	perfcols	performer	plots	scale_color_manual	state	tempo	th	theme	xmax	xmin	ymax	ymin
+rubinstein-perfs	%>%	~	aes	c	clust	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	mutate	paste0	perfcols	performer	plots	scale_color_manual	state	tempo	th	theme	xmax	xmin	ymax	ymin
+cortot-performance	==	~	aes	c	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	perfcols	performer	perfshapes	plots	scale_color_manual	scale_shape_manual	state	tempo	th	theme	xmax	xmin	ymax	ymin
+alternative-smoothers	%>%	~	$	aes	bs	c	clust	data.frame	element_blank	element_text	facet_wrap	filter	fitted	gather	geom_line	geom_point	geom_rect	ggplot	group_by	key	lm	match	measure	mutate	performer	plots	scale_color_brewer	seq	sort	state	tempo	tempos	th	theme	value	xmax	xmin	ymax	ymin
+bad-model	~	aes	c	data.frame	facet_wrap	filter	geom_line	geom_point	geom_rect	ggplot	inferred	measure	perfcols	performer	plots	scale_color_manual	state	tempo	th	xmax	xmin	ymax	ymin
